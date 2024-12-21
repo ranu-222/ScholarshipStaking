@@ -6,6 +6,8 @@ ScholarshipStaking is a decentralized staking contract built on the Ethereum blo
 
 Contract Address
 0xB2B8c6a17101CbEBAe536F835ac712390D5663A9
+![sole](https://github.com/user-attachments/assets/2cb9a6b4-8017-4856-9327-6a0645eb5a79)
+
 
 Project Vision
 The vision of ScholarshipStaking is to provide a secure, transparent, and user-friendly platform for staking Ether, encouraging a culture of saving and earning within the blockchain ecosystem. The project aims to support decentralized finance (DeFi) initiatives by simplifying the process of earning passive income through staking.
